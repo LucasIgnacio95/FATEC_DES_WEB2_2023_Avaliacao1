@@ -1,0 +1,10 @@
+lucas|123456|abc1234
+lucas|123456|abc1234
+lucas|123456|abc1234
+Lucas |123456|ABC12345
+Lucas |123456|ABC12345
+jose|145457|aaa8888
+jose|145457|aaa8888
+fvbfb|bfbvfb|bfbb
+Luiz|12355264|EEE7777
+cszcsc|cszczsc|fefff
