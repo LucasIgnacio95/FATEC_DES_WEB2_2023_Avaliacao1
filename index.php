@@ -21,7 +21,7 @@ if (!isset($_SESSION['logged_in'])) {
         <br>
        
     </div>
-    <h1>Bem-vindo ao Painel de Controle</h1>
+    <h1>Bem-vindo ao Dashboard</h1>
     <a href="cadastro.php" class="btn btn-danger">Cadastrar Aluno</a>
     <a href="registros.php" class="btn btn-danger">Ver Registros</a>
     <a href="logout.php" class="btn btn-danger">Logout</a>
